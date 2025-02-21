@@ -1,0 +1,85 @@
+{
+  "type": "check if it's a theme",
+  "colors": {
+    "icons": "--panel-header-icon",
+
+    "navbar": "--navbar-background",
+    "navbarMessageAura": "--menu-bar-item-background-active",
+
+    "messagesListItem": "--background-default",
+    "messagesListItemHover": "--background-default-hover",
+    "messagesListItemActive": "--background-default-active",
+    "unreadMarker": "--unread-marker-background",
+    "unreadMarkerText": "--unread-marker-text",
+    "unreadTimestamp": "--unread-timestamp",
+    "messagesDesc": "--secondary",
+    "messagesTitle": "--primary-strong",
+    "messagesTitleTop": "--primary-strongest",
+    "messagesDescDelText": "--secondary-stronger",
+    "messagesDescDelLogo": "--chatlist-icon",
+    "messagesTimestamp": "--chat-meta",
+    "messagesMenuArrow": "--icon-lighter",
+
+    "reasearch": "--search-input-container-background",
+    "researchbg": "--search-input-background",
+
+    "filters": "--filters-container-background",
+    "filtersButtonBg": "--filters-item-background",
+    "filtersActiveButtonBg": "--filters-item-active-background",
+    "filtersActiveButton": "--filters-item-active-color",
+    "filtersText": "--filters-item-color",
+    "filtersButtonBgHover": "--filters-item-background-hover",
+
+    "archivedLogo": "--icon-bright-highlight",
+
+    "main": {
+      "returnToBottom": "--incoming-primary",
+
+      "mainBgcolor": "--conversation-panel-background",
+
+      "receivedmessageBubble": "--incoming-background",
+      "sendedmessagesBubble": "--outgoing-background",
+
+      "textResponseMessageBubble": "--quoted-message-text",
+      "receivedResponseMessageBubble": "--incoming-background-deeper",
+      "receivedResponseMessageLeftBar|text": "--wds-sky-blue-300",
+      "sendedResponseMessageBubble": "--outgoing-background-deeper",
+      "sendedResponseMessageLeftBar|text": "--wds-emerald-400",
+      "textColor": "--message-primary",
+      "timestampColor": "--bubble-meta",
+      "deletedMessageText": "--secondary-lighter",
+      "deletedMessageLogo": "--primary-strong-rgb",
+      "externalLink": "--WDS-content-external-link",
+      "callTitle": "--text-secondary-emphasized",
+      "externalLinkPreviewText": "--primary-stronger",
+
+      "daytimestampBg": "--system-message-background",
+      "daytimestampColor": "--system-message-text",
+
+      "sendedplusmenugradient": "--outgoing-background-rgb",
+      "sendedplusmenugradientBig": "--overlay-rgb",
+      "receivedplusmenu": "--incoming-background-rgb",
+      "readConfirmation": "--icon-ack",
+      "otherConfs": "--bubble-meta-icon",
+      "emojiBubbleBg": "--round-entry-point-background-color",
+      "sentExternalLinkPreviewGradient": "--outgoing-background-deeper-rgb",
+      "receivedExternalLinkPreviewGradient": "--incoming-background-deeper-rgb",
+
+      "Personpanel": "--panel-header-background",
+
+      "BottomBarBg": "--rich-text-panel-background",
+      "inputBorderColor": "--compose-input-border",
+      "inputPlaceholder": "--input-placeholder",
+      "inputbg": "--compose-input-background",
+      "iconscolor": "--icon",
+      "plusiconcolor": "--primary"
+    }
+  },
+
+  "config": {
+    "backgroundImg": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjc4b3duNm02bm9od2ozbmhtZmhnODJjOXljNDNjaHlid29nZmZwZiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/nFtFp1jaaz2q9Mhj2a/giphy.webp",
+    "backgroundOpacity": "1",
+    "enableTheming": "boolean",
+    "enableAlerts": "boolean"
+  }
+}
