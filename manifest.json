@@ -1,9 +1,12 @@
 {
   "manifest_version": 3,
-  "name": "Click to run",
-  "description": "Runs a script when the user clicks the action toolbar icon.",
+  "name": "Whatsapp themer",
+  "description": "An extension that permitrs the user to customize WhatsappWeb how he wants",
   "version": "1.0",
   "permissions": ["scripting", "activeTab"],
+  "icons": {
+    "32": "./icons/icon.png"
+  },
   "content_scripts": [
     {
       "matches": ["https://web.whatsapp.com/*"],
